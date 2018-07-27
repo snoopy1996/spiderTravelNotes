@@ -1,0 +1,27 @@
+{
+  "name": "spider-travel",
+  "version": "1.0.0",
+  "description": "驴妈妈游记爬取",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "keywords": [
+    "爬虫;旅游;游记"
+  ],
+  "author": "忍把浮名换此生",
+  "license": "ISC",
+  "dependencies": {
+    "FormData": "^0.10.1",
+    "async": "^2.6.1",
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "eventproxy": "^1.0.0",
+    "formdata": "^0.10.4",
+    "mongoose": "^5.1.7",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "superagent": "^3.8.3",
+    "url": "^0.11.0"
+  }
+}
